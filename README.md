@@ -1,0 +1,1 @@
+A miniature implementation of PyTorch's autograd engine that performs backpropagation over a dynamically built computation graph, supporting basic neural network operations like neurons, layers, and an MLP.
